@@ -1,6 +1,6 @@
 # Lan-based-computer-spy
 A C# based server and client project written to achieve stealth monitoring of any windows based machine in a local area network (LAN). one can simply remotely control a computer over lan without letting user know
-This was my hobby project so for the learning of others i uploaded this work to Git however this is not being maintained, but you are welcomed if you make any change, remove bug or add an extra feature you can create a pull request ofcourse
+This was my hobby project so for the learning of others i uploaded this work to Git however this is not being maintained, but you are welcomed if you make any change, remove bug or add an extra feature you can create a pull request ofcourse, as i know it is not being maintained futher so no doubt it will have a lot of bugs.
 
 # Features
 There are many features in project some of them worth mentioning are following
